@@ -24,7 +24,7 @@ def get_pic(pic_code, pic_name):
 
 def main(restart_sequence):
     # print("欢迎使用ChatGPT智能问答，请在Q:后面输入你的问题，输入quit退出！")
-    openai.api_key = "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"
+    openai.api_key = "****"
     start_sequence = "\nA:"
     # restart_sequence = "\nQ: "
     try:
