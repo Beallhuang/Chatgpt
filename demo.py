@@ -1,7 +1,7 @@
 import openai
 
 print("欢迎使用ChatGPT智能问答，请在Q:后面输入你的问题，输入quit退出！")
-openai.api_key = "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"
+openai.api_key = "sk-**"
 start_sequence = "\nA:"
 restart_sequence = "\nQ: "
 while True:
